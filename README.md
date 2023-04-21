@@ -1,2 +1,2 @@
 # DaffodilGauge
-"May the grind be in your favor, everyone"
+"May the grind be in your favor, everyone!"
