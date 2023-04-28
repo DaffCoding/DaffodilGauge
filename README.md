@@ -1,6 +1,8 @@
 # Daffodil Gauge
 
-The Daffodil Gauge app is a tool designed to help students with their studies. The app will provide a range of features and resources to support different learning styles and needs.
+The Daffodil Gauge app is a tool designed to help students with their studies. The app will provide a range of features and resources to support different learning styles and needs. 
+
+I plan to create it through the Android Studio IDE.
 
 ## Features
 
