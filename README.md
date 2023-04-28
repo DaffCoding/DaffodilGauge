@@ -4,7 +4,7 @@ The Daffodil Gauge app is a tool designed to help students with their studies. T
 
 ## Features
 
-Some of the key features of the Daffodil Gauge app include:
+Plans of the key features of the Daffodil Gauge app include:
 
 - **Goal setting:** The app will allow users to set study goals and track their progress towards achieving them.
 
